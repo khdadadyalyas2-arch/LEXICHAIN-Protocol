@@ -1,0 +1,18 @@
+# LEXICHAIN: Decentralized Dispute Resolution & Legal Oracle Protocol
+
+LEXICHAIN is an automated on-chain legal arbitration and dispute resolution protocol designed for smart contracts and decentralized commerce.
+
+## 🎯 Overview
+As decentralized commerce and smart contract interactions expand, off-chain legal disputes and non-compliance create major risks for Web3 participants. LEXICHAIN introduces an automated, transparent, and multi-signature arbitration mechanism that resolves disputes securely across EVM-compatible blockchains.
+
+## ✨ Core Features
+- **Automated Escrow Disputes:** Conditional multi-sig release and automated arbitration for Web3 agreements.
+- **On-Chain Legal Oracles:** Bridging off-chain legal evidence to smart contracts using cryptographic proofs.
+- **Arbitration DAO:** Decentralized peer arbitrators governed by reputation and consensus.
+- **Privacy & Compliance:** Preserves sensitive contract metadata while publishing verifiable rulings on-chain.
+
+## 🛠️ Tech Stack
+- **Smart Contracts:** Solidity, OpenZeppelin
+- **Frameworks:** Hardhat, Foundry
+- **Frontend & Web3:** Next.js, React, ethers.js, viem
+- **Storage:** IPFS
