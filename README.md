@@ -1,31 +1,30 @@
-# LEXICHAIN: Decentralized Dispute Resolution & Legal Oracle Protocol
 
-LEXICHAIN is an on-chain automated arbitration and legal compliance protocol for decentralized commerce, smart contracts, and Web3 interactions.
+# ⚡ LEXICHAIN Protocol
+> **Autonomous AI-Driven Market Intelligence & Smart Contract Oracle Protocol**  
+> *Built for the CoinMarketCap (CMC) Developer Hackathon Ecosystem.*
 
-## 🎯 Overview
-As decentralized business and smart contract transactions grow, off-chain legal disputes and non-compliance present massive risks to participants. LEXICHAIN introduces an automated, transparent, and multi-signature arbitration mechanism that securely resolves disputes on EVM-compatible chains.
+---
 
-## ✨ Core Features
-- **Automated Escrow Disputes:** Conditional multi-sig release and automated arbitration for e-commerce and Web3 service agreements.
-- **On-Chain Legal Oracles:** Bridging verified off-chain evidence to smart contracts using cryptographic proofs.
-- **Reputation-Weighted Jury DAO:** Decentralized peer arbitrators incentivized through stake-slashing and consensus rewards.
-- **Privacy & Compliance:** Preserves sensitive contract metadata while publishing verifiable rulings on-chain.
+## 📌 Executive Summary
+**LEXICHAIN** is a decentralized autonomous agent pipeline that combines real-time Web3 market intelligence with on-chain risk scoring. Powered by the **CoinMarketCap API Suite** and advanced LLM agent architectures, LEXICHAIN bridges the gap between static algorithmic trading and dynamic multi-token telemetry.
 
-## 🛠️ Tech Stack
-- **Smart Contracts:** Solidity (OpenZeppelin standards)
-- **Frameworks:** Hardhat, Foundry
-- **Frontend / DApp:** Next.js, React, ethers.js / viem, Tailwind CSS
-- **Decentralized Storage:** IPFS
-- **Indexing:** The Graph Protocol
+---
 
-## 🚀 Quickstart
+## 🚀 Key Architectural Pillars
 
-### Prerequisites
-- Node.js (v18+)
-- npm / yarn / pnpm
+### 1. 🤖 Autonomous AI Agent Engine
+- Ingests real-time DEX liquidity, order-book depth, and volatility metrics.
+- Utilizes natural language market query pipelines (`CMC AI` & metadata endpoints).
+- Dynamically outputs risk parameters for DeFi portfolio balancing.
 
-### Installation
+### 2. 📊 Multi-Tier Market Telemetry (CoinMarketCap API)
+- **Cryptocurrency Quotes Endpoint:** Real-time spot valuation and historical delta monitoring.
+- **DEX Pools & Pairs Telemetry:** Automated tracking of micro-cap liquidity curves and slippage tolerances.
+- **Metadata Verification:** Verified contract addresses, circulating supply audits, and social sentiment metrics.
+https://github.com/GAPGPTMAS
+KTOKENo53nd5hvovrX0X.git### 2. Configure Environment
 ```bash
-git clone https://github.com/khdadadyaly-collab/LEXICHAIN-Protocol.git
-cd LEXICHAIN-Protocol
+cp .env.example .envhttps://rpc.mantle.xyz
 npm install
+npm run dev
+# or: python main.py
